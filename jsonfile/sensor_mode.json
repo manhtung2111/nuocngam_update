@@ -1,0 +1,18 @@
+{
+    "Mode_LUULUONG1": {
+        "Enable": true,
+        "Mode": 0
+    },
+    "Mode_MUCNUOC1": {
+        "Enable": true,
+        "Mode": 0
+    },
+    "Mode_LUULUONG2": {
+        "Enable": true,
+        "Mode": 0
+    },
+    "Mode_MUCNUOC2": {
+        "Enable": true,
+        "Mode": 0
+    }
+}
